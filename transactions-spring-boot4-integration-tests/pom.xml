@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.atomikos</groupId>
-		<artifactId>spring-boot3</artifactId>
+		<artifactId>spring-boot4</artifactId>
 		<version>6.0.0</version>
 	</parent>
 	<properties>
@@ -12,11 +12,11 @@
         <transform.skip>true</transform.skip>
     </properties>	
 	<artifactId>transactions-spring-boot3-integration-tests</artifactId>
-	<name>Transactions Spring Boot Integration Tests</name>
+	<name>Transactions Spring Boot 4 Integration Tests</name>
 	<dependencies>
 		<dependency>
 			<groupId>com.atomikos</groupId>
-			<artifactId>transactions-spring-boot3-starter</artifactId>
+			<artifactId>transactions-spring-boot4-starter</artifactId>
 			<version>6.0.0</version>
 		</dependency>
 		<dependency>

@@ -5,7 +5,7 @@
 		<artifactId>ate</artifactId>
 		<version>6.0.0</version>
 	</parent>
-	<artifactId>spring-boot3</artifactId>
+	<artifactId>spring-boot4</artifactId>
 	<packaging>pom</packaging>
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
@@ -14,9 +14,9 @@
 		<boot.version>3.0.1</boot.version>
 	</properties>
 	<modules>
-		<module>transactions-spring-boot3</module>
-		<module>transactions-spring-boot3-starter</module>
-		<module>transactions-spring-boot3-integration-tests</module>
+		<module>transactions-spring-boot4</module>
+		<module>transactions-spring-boot4-starter</module>
+		<module>transactions-spring-boot4-integration-tests</module>
 	</modules>
 	<build>
 		<plugins>
