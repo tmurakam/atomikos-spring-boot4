@@ -11,7 +11,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <transform.skip>true</transform.skip>
     </properties>	
-	<artifactId>transactions-spring-boot3-integration-tests</artifactId>
+	<artifactId>transactions-spring-boot4-integration-tests</artifactId>
 	<name>Transactions Spring Boot 4 Integration Tests</name>
 	<dependencies>
 		<dependency>
